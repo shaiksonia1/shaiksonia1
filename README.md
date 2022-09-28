@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @shaiksonia1
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Data Structures and Algorithms
+- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+
 
 <!---
 shaiksonia1/shaiksonia1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
