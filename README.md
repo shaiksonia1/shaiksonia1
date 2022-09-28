@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/shaik-sonia-a3a9a11a7/> Sonia </a></h1>
+<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/shaik-sonia-a3a9a11a7" /> Sonia </a></h1>
 - 👋 Hi, I’m Sonia
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Data Structures and Algorithms
