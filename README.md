@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sonia<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning Data Structures and Algorithms<br>📚 I'm a beginner programmer with a passion for learning and exploring new technologies.<br> I'm currently focused on learning [ Data Science/Data Structures and Algorithms], and I'm excited to share my journey <br>and progress with others.I'm always looking for new challenges and opportunities <br>to improve my skills and expand my understanding of programming. 
+👋 Hi, I’m Sonia<br>👀 📚 I'm a beginner programmer with a passion for learning and exploring new technologies.<br> I'm currently focused on learning [ Data Science/Data Structures and Algorithms], and I'm excited to share my journey <br>and progress with others.I'm always looking for new challenges and opportunities <br>to improve my skills and expand my understanding of programming. 
 
 
 ## 🌐 Socials:
