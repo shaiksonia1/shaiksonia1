@@ -1,31 +1,18 @@
-<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/shaik-sonia-a3a9a11a7" /> Sonia </a></h1>
-
-- 👋 Hi, I’m Sonia </br>
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+# 💫 About Me:
+👋 Hi, I’m Sonia<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning Data Structures and Algorithms<br>📚 I'm a beginner programmer with a passion for learning and exploring new technologies.<br> I'm currently focused on learning [ Data Science/Data Structures and Algorithms], and I'm excited to share my journey <br>and progress with others.I'm always looking for new challenges and opportunities <br>to improve my skills and expand my understanding of programming. 
 
 
-<!---
-shaiksonia1/shaiksonia1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaik-sonia-a3a9a11a7/) 
 
-<!-- ## Stats 📈 -->
-<details>
-	<summary> My GitHub Stats</summary>
-<br>
-<p align="center">
-<a href="https://github.com/shaiksonia1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaiksonia1&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaiksonia1&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-	<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksonia1&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>
-</a>
-</p>
-</details>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shaiksonia1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaiksonia1&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksonia1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Contribution Graph 📊
+---
+[![](https://visitcount.itsvg.in/api?id=shaiksonia1&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=shaiksonia1&theme=chartreuse-dark"
-     />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
