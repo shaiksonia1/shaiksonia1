@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shaik Sonia</h1>
-<h3 align="center">A passionate Web Developer 👨‍💻</h3>
+<h3 align="center">A passionate Learner 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiksonia1&label=Profile%20views&color=0e75b6&style=flat" alt="shaiksonia1" /> </p>
 <img align="right" alt="coding" width = "500" src="![image](https://github.com/shaiksonia1/shaiksonia1/assets/79378738/88d80d8c-be81-4044-86b0-48dec828d9ef)">
 
-- 🔭 I’m currently working on **frontend development**
-- 🌱 I’m currently learning **web development, Data science**
-- 👯 I’m looking to collaborate on **web development projects**
+- 🔭 I'm a Passionate Learner .
+
+🔭 Currently pursuing B.Tech. in Computer Science and Engineering with specialization in Data Science .
+
+🌱 I'm learning about Web Development and Data Science .
 
 
 <h3 align="left">Connect with me:</h3>
