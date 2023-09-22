@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shaik Sonia</h1>
-<h3 align="center">A passionate Learner 👨‍💻</h3>
+<h1 align="center">Hello, World!👋</h1>
+<h3 align="center">🌱 Always evolving, forever learning. 🚀 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiksonia1&label=Profile%20views&color=0e75b6&style=flat" alt="shaiksonia1" /> </p>
-<img align="right" alt="coding" width = "500" src="![image](https://github.com/shaiksonia1/shaiksonia1/assets/79378738/88d80d8c-be81-4044-86b0-48dec828d9ef)">
 
-- 🔭 I'm a Passionate Learner .
+👨‍💻 I'm a Passionate Learner .
 
 🔭 Currently pursuing B.Tech. in Computer Science and Engineering with specialization in Data Science .
 
