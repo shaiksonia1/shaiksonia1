@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiksonia1&label=Profile%20views&color=0e75b6&style=flat" alt="shaiksonia1" /> </p>
 
-👨‍💻 I'm a Passionate Learner .
+👨‍💻 Passionate Learner
 
-🔭 Currently pursuing B.Tech. in Computer Science and Engineering with specialization in Data Science .
+🔭 I recently graduated with a B.Tech. in Computer Science and Engineering, specializing in Data Science.
 
-🌱 I'm learning about Web Development and Data Science .
+🌱 I’m currently exploring more in Data Science and also delving into Web Development.
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
